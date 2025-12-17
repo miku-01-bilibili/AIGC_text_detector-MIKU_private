@@ -1,0 +1,3 @@
+cd AIGC_text_detector
+python detect_thesis_risk.py
+python extract_high_risk.py
